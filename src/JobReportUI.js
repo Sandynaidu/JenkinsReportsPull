@@ -2,7 +2,7 @@ import React from 'react';
 import JobReports from './JobReports';
 
 const App = () => {
-  const jobs = ['HelloWorld']; // Add your Jenkins job names here
+  const jobs = ['Job1', 'Job2', 'Job3'];
 
   return (
     <div>
