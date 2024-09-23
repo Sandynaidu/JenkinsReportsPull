@@ -1,6 +1,13 @@
-# Project Title
 
-Simple overview of use/purpose.
+# Jenkins Job Reports
+
+This project demonstrates how to fetch and display test reports from two Jenkins jobs: **API_Automation** and **UI_Automation**.
+
+## Goal of the Repo
+
+The goal is to show the report from different Jenkins jobs in a web application. Below is the expected format of the report:
+![MultipleReport_AllureLink](https://github.com/user-attachments/assets/3863ac0a-e147-42cb-9d41-878a51bca5bd)
+
 
 ## Description
 
